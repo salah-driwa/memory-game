@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-u can try this game on 
-
+u can try this game on https://memory-game-15.netlify.app/
+ 
 ## Available Scripts
 
 In the project directory, you can run:
